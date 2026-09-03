@@ -1,0 +1,17 @@
+.main-item {
+    color: aqua;
+    background-color: black;
+
+}
+.student-item{
+    color: wheat;
+    background-color: blue;
+}
+.topic-item{
+    color: violet;
+    background-color: brown;
+}
+.detail-item{
+    color: blanchedalmond;
+    background-color: crimson;
+}
