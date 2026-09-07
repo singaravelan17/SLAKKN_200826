@@ -1,0 +1,9 @@
+.amman{
+    background-image: url(../../accerts/bannner/thanjavur.png) ;
+    background-size: cover;
+    border: 5px solid black;
+    padding: 30px;
+    margin: auto;
+    text-align: center;
+width: 100px;
+}
