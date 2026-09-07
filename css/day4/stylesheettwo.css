@@ -1,0 +1,19 @@
+.overall{
+    background-color: antiquewhite;
+    margin: 10px;
+    border: 10px solid red;
+}
+.boxff{
+    background-color: blueviolet;
+    border: 20px solid black;
+    padding: 10px;
+}
+.boxyy{
+    background-color: aqua;
+    border: 20px solid navy;
+    padding: 10px;
+}
+.boxzz{
+    border: 20px solid darkgoldenrod;
+    padding: 10px;
+}

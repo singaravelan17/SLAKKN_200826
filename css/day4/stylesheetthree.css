@@ -1,0 +1,30 @@
+.hhh{
+    background-color: rgb(249, 248, 247);
+    margin: auto 50px;
+}
+.ttt{
+    background-color: aliceblue;
+    padding: 10px;
+    border: 5px solid black;
+    width: 100px;
+    text-align: center;
+    margin: auto;
+}
+
+.yyy{
+    padding: 10px;
+    background-color: azure;
+    border: 5px solid black;
+    width: 100px;
+    text-align: center;
+    margin: 20px auto;
+
+}
+.uuu{
+     padding: 10px;
+    background-color: azure;
+    border: 5px solid black;
+    width: 100px;
+    text-align: center;
+    margin: 20px auto;
+}
