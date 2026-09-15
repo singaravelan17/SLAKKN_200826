@@ -1,0 +1,55 @@
+.parent {
+    background-color: brown;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+    height: 100vh;
+
+}
+
+.sugar {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    gap: 10px;
+    height: 200px;
+    width: 2oopx;
+    text-align: center;
+    border: 3px solid bisque;
+    margin: auto;
+}
+
+.mobile {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+    height: 200px;
+    width: 2oopx;
+    text-align: center;
+    border: 3px solid bisque;
+    margin: auto;
+
+}
+
+.hotel {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction:column;
+   align-items: center;
+    padding: 50px;
+    gap: 10px;
+    height: 250px;
+    width: 2oopx;
+    text-align: center;
+    border: 3px solid bisque;
+    margin: auto;
+}

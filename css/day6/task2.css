@@ -1,0 +1,68 @@
+.parent{
+    height: 100vh;
+    background-color: bisque;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+   
+}
+.html{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: 3px solid black;
+    color: white;
+    text-align: center;
+
+}
+.css{
+     height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: 3px solid black;
+    color: white;
+    
+}
+.java{
+     height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: 3px solid black;
+    color: white;
+    
+}
+.bootstrap{
+     height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: 3px solid black;
+    color: white;
+    
+}
+.tailwind{
+     height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: 3px solid black;
+    color: white;
+    
+}
+.js{
+     height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: 3px solid black;
+    color: white;
+    
+}
+.overall{
+     height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: 3px solid black;
+    color: white;
+    
+}
